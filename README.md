@@ -1,6 +1,5 @@
 # mooc-2013-OOProgrammingWithJava-PART1
 
-# Ülesanded 
 
   * [Mooc.fi] - Java ülesanded
   
