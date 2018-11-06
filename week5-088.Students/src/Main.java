@@ -25,6 +25,18 @@ public class Main {
          for (Student i : list) {
              System.out.println(i.toString());
          }
+
+         String search;
+
+         System.out.println("Give search term: ");
+         search = reader.nextLine();
+
+         System.out.println("Result: ");
+
+         for(Student j : list) {
+             if(j.getName().contains(search)){
+                 System.out.println(j);
+             }
      }
     }
 }
